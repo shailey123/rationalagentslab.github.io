@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Rationality and Alignment"
 date: 2025-10-22
