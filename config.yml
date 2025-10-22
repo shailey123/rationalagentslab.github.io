@@ -4,6 +4,9 @@ theme: minima
 markdown: kramdown
 show_excerpts: true
 author: "Shailey Dash"
+include:
+  - assets/style.css
+
 
 
 
