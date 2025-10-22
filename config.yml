@@ -6,6 +6,14 @@ show_excerpts: true
 author: "Shailey Dash"
 include:
   - assets/style.css
+# Load custom CSS
+sass:
+  style: compressed
+assets:
+  sources:
+    - _sass
+    - assets/css
+
 
 
 
