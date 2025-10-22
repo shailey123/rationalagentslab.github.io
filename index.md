@@ -17,5 +17,10 @@ Our focus areas:
 
 [→ Read more about the lab](about.md)
 
-## Lab Notes
-[View all notes](labnotes/2025-10-22-rationality-and-alignment.md)
+---
+
+## 🧠 Lab Notes
+
+- [Rationality and Alignment](labnotes/2025-10-22-rationality-and-alignment.md)
+
+
