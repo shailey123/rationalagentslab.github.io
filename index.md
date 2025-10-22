@@ -16,3 +16,6 @@ Our focus areas:
 - **Open-ended intelligence:** curiosity, goal discovery, and evolving rationality.
 
 [→ Read more about the lab](about.md)
+
+## Lab Notes
+[View all notes](labnotes/2025-10-22-rationality-and-alignment.md)
