@@ -1,0 +1,12 @@
+/* Hide the default site title in the header */
+.site-title {
+  display: none;
+}
+
+/* Make the main page title big and prominent */
+h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  text-align: center;
+  margin-top: 1.5em;
+}
