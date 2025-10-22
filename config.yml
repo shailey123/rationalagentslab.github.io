@@ -4,8 +4,6 @@ theme: minima
 markdown: kramdown
 show_excerpts: true
 author: "Shailey Dash"
-header_pages:
-  - index.md
-  - about.md
-  - research.md
+
+
 
