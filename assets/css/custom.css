@@ -1,0 +1,30 @@
+/* --- Custom overrides for Rational Agents Lab --- */
+
+/* Hide GitHub repo title from top bar */
+.site-title {
+  display: none !important;
+}
+
+/* Make the first H1 (Rational Agents Lab) large and centered */
+h1 {
+  font-size: 3rem;
+  font-weight: 800;
+  text-align: center;
+  margin: 1.5em 0 0.7em 0;
+}
+
+/* Optional: make sub-page titles clearer */
+.page h1 {
+  font-size: 2.4rem;
+  text-align: center;
+}
+
+/* Optional small corner label */
+.site-header::after {
+  content: "rationalagentslab.github.io";
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  font-size: 0.8rem;
+  color: #777;
+}
